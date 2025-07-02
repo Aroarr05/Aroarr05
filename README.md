@@ -54,5 +54,5 @@
 
 ##  Idiomas
 
-- 🇪🇸 **Español:** Nativo  
-- 🇬🇧 **Inglés:** Nivel medio
+- **Español:** Nativo  
+- **Inglés:** Nivel medio
