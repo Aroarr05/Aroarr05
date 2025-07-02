@@ -1,4 +1,4 @@
-# 👩‍💻 Aroa Rivas Rios  
+# Aroa Rivas Rios  
 ### Desarrolladora Web
 
 ---
@@ -26,33 +26,33 @@
 
 ## 📚 Formación Académica
 
-- 🎓 **Grado Medio en Sistemas Microinformáticos y de Redes**  
+-  **Grado Medio en Sistemas Microinformáticos y de Redes**  
   _Implika (2021–2023)_
 
-- 💻 **1º Grado Superior en Desarrollo de Aplicaciones Web**  
+-  **1º Grado Superior en Desarrollo de Aplicaciones Web**  
   _Digitech (2023–2024)_  
-  🔗 Proyecto: [Página web](#)
+   Proyecto: [Página web](#)
 
-- 🛡️ **Máster en Ciberseguridad**  
+-  **Máster en Ciberseguridad**  
   _Incibe (2023)_
 
-- 📚 **2º Grado Superior en Desarrollo de Aplicaciones Web**  
+-  **2º Grado Superior en Desarrollo de Aplicaciones Web**  
   _IES Belén (2024–2025)_
 
-- 🤖 **Curso IA con Python**  
+-  **Curso IA con Python**  
   _Fundacionesplai (2025)_
 
 ---
 
-## 💡 Habilidades Personales
+##  Habilidades Personales
 
-- 🤝 Trabajo en equipo  
-- 💡 Creatividad  
-- 🗂️ Organización  
+-  Trabajo en equipo  
+-  Creatividad  
+-  Organización  
 
 ---
 
-## 🌍 Idiomas
+##  Idiomas
 
 - 🇪🇸 **Español:** Nativo  
 - 🇬🇧 **Inglés:** Nivel medio
